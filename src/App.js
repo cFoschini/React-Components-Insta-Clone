@@ -31,7 +31,7 @@ const App = () => {
       }
     });
     setPosts(postsArray);
-  };
+  
     /*
       This function serves the purpose of increasing the number of likes by one, of the post with a given id.
 
